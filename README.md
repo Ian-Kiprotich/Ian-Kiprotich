@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ian-Kiprotich
-- 👀 I’m interested in Programming..
-- 🌱 I’m currently learning Information Technology..
-- 💞️ I’m looking to collaborate on Google..
+- 👋 Hi, I’m Ian-Kiprotich
+- 👀 I’m interested in Programming, AI/ML and Data Science 
+- 🌱 I’m currently during my undergraduate in Bachelor of Science in Information Technology
+- 💞️ I’m looking to collaborate with startups and even the Big Tech Companies like Microsoft, Google , IBM among others.
 - 📫 How to reach me either or my email iankiprotich009@gmail.com or Contact 0727298055
 .
 
