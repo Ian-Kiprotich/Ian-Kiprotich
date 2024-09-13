@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
        "#             #  # # # # # # #   # # # # # # #  # # # # # # #       #          "
      "******************************************************************************"
                "***************************************************"
+```md
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ian-Kiprotich)](https://git.io/streak-stats)
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Kiprotich&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ian-Kiprotich&hide_border=true&border_radius=6.5" alt="GitHub Streak" /></a>
