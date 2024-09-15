@@ -21,7 +21,4 @@ You can click the Preview link to take a look at your changes.
 ```
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Ian-Kiprotich)](https://git.io/streak-stats)                  
 ```
-```
-![](https://raw.?user=Ian-Kiprotich/Ian-Kiprotich/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.?user=Ian-Kiprotich/Ian-Kiprotich/github-stats/master/generated/overview.svg#gh-light-mode-only)
-```
+
