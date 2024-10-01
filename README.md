@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Kiprotich.
+- 👋 Hi, Ian Kiprotich here.
 - 👀 I’m interested in Programming, AI/ML and Data Science  and creating solutions.
 - 🌱 I’m currently during my undergraduate in Bachelor of Science in Information Technology.
 - 💞️ I’m looking to collaborate with startups and even the Big Tech Companies like Microsoft, Google , IBM among others.
