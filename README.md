@@ -1,7 +1,7 @@
 - 👋 Hi, Ian Kiprotich here.
 - 👀 I’m interested in Programming, AI/ML and Data Science  and creating viable solutions in real world.
 - 🌱 I’m done with my undergraduate in Bachelor of Science in Information Technology at Kabarak University.
-- Major on Artificial Intelligence, Machine Learning and Web Development
+- Major on Artificial Intelligence, Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate with startups and even the Big Tech Companies like Microsoft, Google ,IBM among others.
 - 📫 How to reach me either or my email iankiprotich009@gmail.com or Contact 0727298055 or 0758499766
 - 📫 Email: ian@kabarak.ac.ke
