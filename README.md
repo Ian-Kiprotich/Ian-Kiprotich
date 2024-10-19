@@ -1,5 +1,5 @@
 - 👋 Hi, Ian Kiprotich here.
-- 👀 I’m interested in Programming, AI/ML and Data Science to creating viable solutions in real world today
+- 👀 I’m interested in Programming, AI/ML and Data Science to creating viable solutions in real world today.
 - 🌱 I’m done with my undergraduate in Bachelor of Science in Information Technology at Kabarak University.
 - Major on Artificial Intelligence, Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate with startups and even the Big Tech Companies like Microsoft, Google,IBM among others.
