@@ -1,4 +1,4 @@
-       > About me
+       > About me.
 - 👋 Hi, Ian Kiprotich here.
 - 👀 I’m interested and always learning Programming, AI/ML and Data Science to creating viable solutions in real world today.
 - 🌱 I’m done with my undergraduate in Bachelor of Science in Information Technology at Kabarak University.
