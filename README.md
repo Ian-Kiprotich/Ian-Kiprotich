@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 ```
 [![GitHub Trends SVG](https://api.githubtrends.io/user=Ian-Kiprotich/langs)](https://githubtrends.io
    >>>> About me
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
