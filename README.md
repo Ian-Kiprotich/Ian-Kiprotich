@@ -1,6 +1,6 @@
        > About me.
        
-- 👋 Hi, am Ian Kiprotich .
+- 👋 Hi, am Ian Kiprotich.
 
 
 - 👀 I’m interested and always learning Programming, AI/ML and Data Science to creating viable solutions in real world today.
