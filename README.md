@@ -1,3 +1,7 @@
+GITHUB
+> Bio
+>> Education
+>>> Profession  
        > About me.
        
 - 👋 Hi, am Ian Kiprotich.
