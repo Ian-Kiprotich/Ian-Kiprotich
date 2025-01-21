@@ -10,10 +10,9 @@
 
 
 
-
 > Bio
 >> Education
->>> Profession  
+>>> Professional  
 
 > About me
        
