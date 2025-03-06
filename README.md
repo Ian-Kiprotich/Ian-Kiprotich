@@ -20,16 +20,14 @@
 
 
 > Bio
-> 
 >> Education
 >>> Professional  
 
 > About me
        
 - 👋 Hi, am Ian Kiprotich.
-- 
 - 👀 I’m interested and always learning Programming, AI/ML and Data Science to creating viable solutions in real world today.
-- 🌱 I’m doing my Masters in IT at Kabarak University
+- 🌱 I’m doing my Masters in IT at Kabarak University - Major in Data Science , AI and ML
 - Major in Artificial Intelligence, Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate with startups and even the Big Tech Companies like Microsoft, Google,IBM among others.
 - 📫 How to reach me either or my email iankiprotich009@gmail.com or Contact 0727298055 or 0758499766.
